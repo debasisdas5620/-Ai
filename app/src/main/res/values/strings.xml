@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">গল্পAI</string>
+    <string name="tagline">তোমার কল্পনা, তোমার গল্প, তোমার বাংলা AI</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_characters">AI চরিত্র</string>
+    <string name="nav_stories">গল্পের জগৎ</string>
+    <string name="nav_chats">আমার চ্যাট</string>
+    <string name="nav_profile">প্রোফাইল</string>
+</resources>

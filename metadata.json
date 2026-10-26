@@ -1,0 +1,6 @@
+{
+  "name": "গল্পAI",
+  "description": "বাংলা AI ক্যারেক্টার চ্যাট ও ইন্টারেক্টিভ গল্পের জগৎ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
